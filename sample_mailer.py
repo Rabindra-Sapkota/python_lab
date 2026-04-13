@@ -6,7 +6,7 @@ password = "cpho juux uvwy clnd"
 
 my_mailer = Mailer("smtp.gmail.com", 587, "rabindrasapkota2@gmail.com", password)
 
-to_emails = ['bijayayer68@gmail.com', 'joshipratikdhn@gmail.com']
+to_emails = ['bijayayer68@gmail.com']
 attachment = [r'C:\Users\hp\OneDrive\Desktop\PersonalSite\public\courses\data_science\data_files\app.log'
               ]
 subject = "Test From Python"
